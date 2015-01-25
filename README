@@ -1,14 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+This is a demo of gradient animation simulating metro animation.
 
-This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
+For full explanation in spanish please visit: http://www.jaitec.net/blog/animacion-estilo-metro-con-titanium/
 
-----------------------------------
-Stuff our legal folk make us say:
+Esta es una demo de animación tipo metro en Titanium
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+Para una explicación completa visita http://www.jaitec.net/blog/animacion-estilo-metro-con-titanium/
